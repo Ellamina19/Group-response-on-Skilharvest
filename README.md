@@ -1,5 +1,5 @@
 ## Group-response-on-Skilharvest
-This clarly shows the response gotten from skilharvest students. Let's dive into details shall we?🕺
+This clearly shows the response gotten from skilharvest students. Let's dive into details shall we?🕺
 
 ## Project Overview
 
@@ -11,7 +11,7 @@ The data source was gotten from the google form that was dropped by my facilitat
 
 ## Tools Used
 - Google form mainly for collecting data
-- 
+  
 - Microsoft Excel for fetching dataset and previewing it
   
 - Power Bi for data cleaning and visualization
@@ -25,6 +25,7 @@ The data source was gotten from the google form that was dropped by my facilitat
   I did some data cleaning by replacing a null value on the country residence, and also changing the data type
 
   ## Findings
-  ![data]()
+  ![data](https://github.com/Ellamina19/Group-response-on-Skilharvest/blob/main/SKILHARVEST%20FORM%20RESPONSE%202.jpg)
+  
 
   
